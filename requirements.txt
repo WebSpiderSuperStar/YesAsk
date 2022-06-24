@@ -3,3 +3,4 @@ requests
 retrying
 fake_headers
 fake_useragent
+environs
